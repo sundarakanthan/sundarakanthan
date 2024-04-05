@@ -44,3 +44,10 @@ Feel Free to explore my repositories to see my projects which I built👷‍♂�
   <img src="https://miro.medium.com/v2/resize:fit:585/1*69OXNxfqIfRNhnBRqTH0Gg.png" width="100" height="40"><img src=""><img src=""><img src="">
 
 </div>
+
+### :fire: My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sundarakanthan&theme=light&background=fff)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sundarakanthan&layout=compact&theme=light)](https://github.com/anuraghazra/github-readme-stats)
+
+
