@@ -42,7 +42,7 @@ Feel Free to explore my repositories to see my projects which I built👷‍♂�
   <img src="https://inapp.com/wp-content/uploads/elementor/thumbs/express-js-01-1-q05uw85vt1jqloiy5k82sfy7tgvysgt1uqld8slsbc.png" width="120" height="60">
   <img src="https://pngimg.com/uploads/mysql/mysql_PNG23.png" width="40" height="40"">
   <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/postman-icon.png" width="40" height="40"><img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" width="40" height="40">
-  <img src="https://miro.medium.com/v2/resize:fit:585/1*69OXNxfqIfRNhnBRqTH0Gg.png" width="100" height="40"><img src=""><img src=""><img src="">
+  <img src="https://miro.medium.com/v2/resize:fit:585/1*69OXNxfqIfRNhnBRqTH0Gg.png" width="100" height="40">
 
 </div>
 
