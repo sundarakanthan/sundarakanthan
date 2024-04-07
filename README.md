@@ -36,13 +36,13 @@ Feel Free to explore my repositories to see my projects which I built👷‍♂�
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="50" height="50"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/><img src="https://brandslogos.com/wp-content/uploads/thumbs/bootstrap-logo.png" width="40" height="40"">
-  <img src="https://inapp.com/wp-content/uploads/elementor/thumbs/express-js-01-1-q05uw85vt1jqloiy5k82sfy7tgvysgt1uqld8slsbc.png" width="120" height="60">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/><img src="https://brandslogos.com/wp-content/uploads/thumbs/bootstrap-logo.png" width="30" height="30"">
+  <img src="https://inapp.com/wp-content/uploads/elementor/thumbs/express-js-01-1-q05uw85vt1jqloiy5k82sfy7tgvysgt1uqld8slsbc.png" width="100" height="40">
   <img src="https://pngimg.com/uploads/mysql/mysql_PNG23.png" width="40" height="40"">
   <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/postman-icon.png" width="40" height="40"><img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" width="40" height="40">
-  <img src="https://miro.medium.com/v2/resize:fit:585/1*69OXNxfqIfRNhnBRqTH0Gg.png" width="100" height="40">
+  <img src="https://miro.medium.com/v2/resize:fit:585/1*69OXNxfqIfRNhnBRqTH0Gg.png" width="90" height="35">
 
 </div>
 
